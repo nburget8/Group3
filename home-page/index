@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./vars.css">
+  <link rel="stylesheet" href="./style.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>Document</title>
+</head>
+<body>
+  <div class="desktop-1">
+    <div class="registration">Registration</div>
+    <div class="merchandise">Merchandise</div>
+    <div class="schedule">Schedule</div>
+    <div class="rectangle-4"></div>
+    <div class="sign-in">Sign In</div>
+    <img class="images-1" src="images-10.png" />
+    <img class="image-2" src="image-20.png" />
+    <img class="image" src="image0.png" />
+    <div class="upcoming-game-umd-v-navy">Upcoming Game: UMD v NAVY</div>
+    <div class="umd-club-rugby-membership-home">
+      UMD Club Rugby
+      <br />
+      Membership Home
+    </div>
+    <div class="frame-1"></div>
+    <img class="image-5" src="image-50.png" />
+    <img class="image-6" src="image-60.png" />
+    <img class="image-7" src="image-70.png" />
+    <img class="image-8" src="image-80.png" />
+    <div class="rectangle-6"></div>
+    <div class="join-the-team">Join the team</div>
+    <div class="rectangle-7"></div>
+    <div class="spring-2025-schedule">SPRING 2025 Schedule</div>
+    <img class="image-9" src="image-90.png" />
+    <img class="image-10" src="image-100.png" />
+  </div>
+  
+</body>
+</html>
